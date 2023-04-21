@@ -1,14 +1,12 @@
-### CIS 1200 Homework 6: Pennstagram
-
-## Homework Instructions
+## Instructions
 
 Please follow the instructions available here:
 
-* [Homework Description](http://www.cis.upenn.edu/~cis1200/current/hw/hw06)
+* [Description](http://www.cis.upenn.edu/~cis1200/current/hw/hw06)
 
 ### IntelliJ INSTRUCTIONS
 
-* [IntelliJ instructions](https://www.seas.upenn.edu/~cis1200/current/intellij_setup/)
+* [IntelliJ instructions](https://www.seas.upenn.edu/)
 
 ### CODIO INSTRUCTIONS
 
@@ -31,10 +29,10 @@ Note that the Codio menu now provides two modes of running your project:
 
 Once you are finished, use the "Zip for Submission" menu item to create a file called "hw06-submit(-time).zip" and upload it here:
 
-[Homework Submission Site](https://www.cis.upenn.edu/~cis1200/current/submitredirect)
+[Submission](https://www.cis.upenn.edu/)
 
 ## Codio Documentation
 
 Codio documentation can be found here:
 
-[CIS 1200 Codio Documentation](https://www.seas.upenn.edu/~cis1200/current/codio/)
+[CIS 1200 Codio Documentation](https://www.seas.upenn.edu/)
