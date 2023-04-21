@@ -3,6 +3,8 @@ package org.cis1200;
 public class AdvancedManipulations {
 
     /**
+     * Blah blah blah
+     *
      * Change the contrast of a picture.
      * The simplest method of changing contrast is as follows:
      * <p>
