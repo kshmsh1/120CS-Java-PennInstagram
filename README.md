@@ -2,7 +2,7 @@
 
 Please follow the instructions available here:
 
-* [Description](http://www.cis.upenn.edu/~cis1200/current/hw/hw06)
+* [Description](http://www.cis.upenn.edu)
 
 ### IntelliJ INSTRUCTIONS
 
